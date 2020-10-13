@@ -1,0 +1,5 @@
+LIBRARY
+EXPORTS
+	InstallHook		@1
+	UnInstallHook	@2
+	SetDataSeg		@3
